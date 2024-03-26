@@ -6,7 +6,7 @@ After the database was reflected into objects, the most recent year of precipita
 
 <img src="climate_analysis/images/precipitation.png" width=50% height=50%>
 
-The station that had the most observations was USC00519281. A histrogram for its prior year of observed temperatures follows:
+The station that had the most observations was USC00519281. A histogram for its prior year of observed temperatures follows:
 
 <img src="climate_analysis/images/histogram.png" width=50% height=50%>
 
