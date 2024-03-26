@@ -13,7 +13,7 @@ The station that had the most observations was USC00519281. A histrogram for its
 
 The second part of the project combined the use of the ORM by way of SQLAlchemy to build an API application. A summary of the available endpoints is below:
 
-Available API endpoints:
+Available API endpoints:<br>
   /api/v1.0/: This is the base URL <br>
   /api/v1.0/precipitation: Returns JSON of the precipitation observed and corresponding dates for the prior year<br>
   /api/v1.0/stations: Returns JSON of Hawaii stations that appear in the dataset<br>
